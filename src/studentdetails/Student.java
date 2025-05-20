@@ -12,6 +12,7 @@ public class Student {
     private String name;
     private int sid;
     private int semester;
+    private int grade;
 
     /**
      * @return the name
